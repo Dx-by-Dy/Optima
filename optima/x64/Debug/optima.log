@@ -1,0 +1,3 @@
+﻿  optima.cpp
+C:\Users\user\source\repos\optima\optima.cpp(197,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\optima\optima.cpp(39): warning C4715: F: значение возвращается не при всех путях выполнения
